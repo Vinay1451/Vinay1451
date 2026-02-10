@@ -1,8 +1,6 @@
-💫 About Me:
-
+💫 About Me
 Hey, I'm Vinay Kumar  <br>
 Cloud Engineer | AWS & GCP | AIOps & Cloud Observability Linux • Python • Shell Automation  <br><br>
-
 Welcome to my space!  <br>
 I work at the intersection of Cloud Engineering, AIOps, and Observability, building systems that are reliable, automated, and intelligently optimized.  <br>
 Focused on AWS, GCP, Linux, and automation, and passionate about using AI-driven approaches to improve cloud operations.<br>
