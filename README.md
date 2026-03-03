@@ -1,9 +1,10 @@
 💫 About Me<br>
-I’m Vinay Kumar  a cloud engineer specializing in AWS, GCP, automation, and observability.
+I’m Vinay Kumar, a cloud engineer working with AWS, GCP, automation, and observability.
 
-I build reliable, scalable systems using Linux,Python,andcloud-native tooling.
+I build stable and scalable systems using Linux, Python, and cloud-native tools.
 
-My focus is simple:automate everything,reduce noise,and deliver production-ready outcomes.Driven, disciplined,and always leveling up  I turn complex cloud problems into clarity.
+I focus on automating everything, reducing noise, and creating production-ready solutions.  
+Always learning and improving turning complex cloud problems into clear, simple outcomes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-evolvecode/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaykumar1122t@gmail.com) 
 
