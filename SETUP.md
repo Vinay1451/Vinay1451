@@ -131,7 +131,7 @@ was set up they were returning 503, 402 (quota exhausted) and intermittent timeo
 respectively. A file in your repo has none of those failure modes.
 
 ```powershell
-python scripts\cards.py --user gargibhardwaj24 --out assets
+python scripts\cards.py --user Vinay1451 --out assets
 ```
 
 - **Which repos get a card** is `assets/projects.json`. Stars, forks and language are

@@ -3,7 +3,7 @@
     Fill in the placeholders and generate every local asset for the profile README.
 
 .EXAMPLE
-    .\setup.ps1 -Username tanishka -Name "Tanishka" -Image .\me.jpg
+    .\setup.ps1 -Username Vinay1451 -Name "Vinay Kumar" -Image .\me.jpg
 
 .EXAMPLE
     # regenerate art only, with different dot settings
