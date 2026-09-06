@@ -41,7 +41,6 @@ vinay@cloud:~$ whoami
 
 I am **Vinay Kumar** (Avulakunta Vinay Kumar), a **Cloud & DevOps Engineer** with hands-on experience building, containerizing, and deploying production applications using **AWS**, **Microsoft Azure**, **Docker**, **Linux**, **Python**, and **Git**, with foundational knowledge of **CI/CD** automation and **AI-assisted engineering**.
 
-- **Background & Education** — Pursuing B.Tech in Electronics & Communication Engineering at **Kalasalingam Academy of Research and Education** (CGPA: 8.05).
 - **Cloud Engineering** — Hands-on architecture design with AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, ECR, App Runner) and Microsoft Azure.
 - **DevOps & Containers** — Building automated CI/CD pipelines with GitHub Actions, containerizing workloads with Docker, and managing Linux infrastructure.
 - **Industry Experience** — Former **Microsoft Azure – AI Intern** at Edunet Foundation & AICTE, building event-driven data processing workflows.
@@ -213,52 +212,6 @@ Career Launchpad – APAC 2025<br>
 
 <br>
 
-<div align="center">
-
-### Pinned Repositories
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/Vinay1451/SyncSquad">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-SyncSquad-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-SyncSquad-light.svg">
-  <img src="assets/card-SyncSquad-dark.svg" width="400" alt="SyncSquad">
-</picture>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/Vinay1451/AccidentAlert">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-AccidentAlert-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-AccidentAlert-light.svg">
-  <img src="assets/card-AccidentAlert-dark.svg" width="400" alt="AccidentAlert">
-</picture>
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<a href="https://github.com/Vinay1451/ACCIDENT-ALERT-SYSTEM">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ACCIDENT-ALERT-SYSTEM-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-ACCIDENT-ALERT-SYSTEM-light.svg">
-  <img src="assets/card-ACCIDENT-ALERT-SYSTEM-dark.svg" width="400" alt="ACCIDENT-ALERT-SYSTEM">
-</picture>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <img src="assets/divider.svg" width="100%" alt="">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -298,7 +251,6 @@ Career Launchpad – APAC 2025<br>
 ```yaml
 Role:         Cloud & DevOps Engineer
 Location:     Annamayya, Andhra Pradesh, India
-Education:    B.Tech ECE (CGPA: 8.05) - Kalasalingam Academy
 Focus:        AWS Cloud Infrastructure, Docker Containerization & CI/CD Pipelines
 Core Stack:   AWS, Azure, Docker, Linux, Python, GitHub Actions
 Projects:     Adaptive AI, LogPulse, Multi-Tier AWS Deployments
