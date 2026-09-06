@@ -17,8 +17,7 @@
 
 <!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/vinay-evolvecode/"><img src="https://img.shields.io/badge/LinkedIn-6K%2B_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:vinaykumar1122t@gmail.com"><img src="https://img.shields.io/badge/Email-vinaykumar1122t@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-<a href="https://github.com/Vinay1451"><img src="https://img.shields.io/badge/GitHub-Vinay1451-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+<a href="mailto:vinaykumar1122t@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Vinay1451&style=for-the-badge&color=39d353&label=Profile+Views&base=2400" alt="Profile Views">
 
 </div>
@@ -45,6 +44,12 @@ I am **Vinay Kumar**, a **Cloud & DevOps Engineer** with hands-on experience bui
 - **DevOps & Containers** — Building automated CI/CD pipelines with GitHub Actions, containerizing workloads with Docker, and managing Linux infrastructure.
 - **Industry Experience** — Former **Microsoft Azure – AI Intern** at Edunet Foundation & AICTE, building event-driven data processing workflows.
 - **Recognition** — Selected for the **Google Cloud Career Launchpad (APAC 2025)**.
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160" alt="cat typing on keyboard">
+</div>
 
 <br>
 
@@ -226,7 +231,6 @@ Career Launchpad – APAC 2025<br>
 
 ```yaml
 Role:         Cloud & DevOps Engineer
-Location:     Annamayya, Andhra Pradesh, India
 Focus:        AWS Cloud Infrastructure, Docker Containerization & CI/CD Pipelines
 Core Stack:   AWS, Azure, Docker, Linux, Python, GitHub Actions
 Projects:     Adaptive AI, LogPulse, Multi-Tier AWS Deployments
@@ -244,8 +248,7 @@ Contact:      vinaykumar1122t@gmail.com
 ## Contact & Connect
 
 <a href="https://linkedin.com/in/vinay-evolvecode/"><img src="https://img.shields.io/badge/LinkedIn-6K%2B_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:vinaykumar1122t@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-<a href="https://github.com/Vinay1451"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:vinaykumar1122t@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
 
