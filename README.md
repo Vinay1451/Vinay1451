@@ -10,7 +10,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Vinay1451">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Google+Cloud+Certified+%E2%98%81%EF%B8%8F;Building+reliable+cloud+systems+%F0%9F%9A%80;Automating+everything+%F0%9F%94%A7" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;GCP+%E2%80%A2+Azure+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;3x+Cloud+Certified+%F0%9F%8F%85;Building+reliable+cloud+systems+%F0%9F%9A%80;Automating+everything+%F0%9F%94%A7" alt="typing banner">
 </a>
 
 <br>
@@ -70,22 +70,31 @@ Hi, I'm **Avulakunta Vinay Kumar** — a **Cloud & DevOps Engineer** passionate 
 
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center" width="280">
 
-<img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE">
+<img src="assets/cert-gcp-ace.png" width="140" alt="Google Cloud ACE">
 <br><br>
 <strong>Google Cloud</strong><br>
 Associate Cloud Engineer<br>
-<sub>☁️ Certified 2026</sub>
+<sub>☁️ Certified</sub>
 
 </td>
-<td align="center" width="300">
+<td align="center" width="280">
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="assets/cert-azure-admin.png" width="140" alt="Azure Administrator">
 <br><br>
-<strong>Amazon Web Services</strong><br>
-Cloud Practitioner<br>
-<sub>🎯 In Progress</sub>
+<strong>Microsoft Azure</strong><br>
+Administrator Associate<br>
+<sub>🛡️ Certified</sub>
+
+</td>
+<td align="center" width="280">
+
+<img src="assets/cert-claude-architect.png" width="140" alt="Claude Certified Architect">
+<br><br>
+<strong>Anthropic Claude</strong><br>
+Certified Architect – Foundations<br>
+<sub>✨ Certified</sub>
 
 </td>
 </tr>
@@ -107,7 +116,7 @@ Cloud Practitioner<br>
 
 | Domain | Technologies & Tools |
 |---|---|
-| **Cloud & Infrastructure** | `AWS (EC2, S3, IAM, VPC, Lambda)` `GCP` `Cloud Native` |
+| **Cloud & Infrastructure** | `AWS (EC2, S3, IAM, VPC, Lambda)` `GCP` `Azure` `Cloud Native` |
 | **DevOps & CI/CD** | `Docker` `Git` `GitHub Actions` `Linux / Bash` `CI/CD Pipelines` |
 | **Scripting & Automation** | `Python` `Bash / Shell Scripting` `Automation Scripts` |
 | **Databases & Storage** | `PostgreSQL` `Supabase` `Firebase` `Cloud Storage` |
@@ -115,7 +124,7 @@ Cloud Practitioner<br>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,linux,python,docker,git,github,bash,postgres,supabase,vscode,html,css&perline=13" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,python,docker,git,github,bash,postgres,supabase,vscode,html,css&perline=14" alt="tech stack">
 
 </div>
 
@@ -218,51 +227,12 @@ Cloud Practitioner<br>
 
 ## 📈 GitHub Stats & Activity
 
-<!-- Self-hosted stat card (always loads) + Streak Stats -->
-<table>
-<tr>
-<td width="50%" align="center">
-
+<!-- Self-hosted stat card -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
   <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/Vinay1451">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay1451&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" width="480" alt="GitHub Streak">
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Dynamic stats + top languages -->
-<a href="https://github.com/Vinay1451">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay1451&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" width="49%" alt="GitHub Stats">
-</a>
-<a href="https://github.com/Vinay1451">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay1451&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" width="42%" alt="Top Languages">
-</a>
-
-<br><br>
-
-<!-- Activity Graph -->
-<a href="https://github.com/Vinay1451">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay1451&bg_color=0d1117&color=39d353&line=2ea043&point=7ee787&area_color=39d353&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph">
-</a>
-
-<br><br>
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/Vinay1451">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinay1451&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies">
-</a>
 
 <br><br>
 
