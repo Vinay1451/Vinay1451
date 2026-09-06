@@ -199,17 +199,34 @@ Associate Cloud Engineer<br>
 
 ## 📈 GitHub Stats & Activity
 
-<!-- GitHub Stats Card -->
+<!-- Self-hosted stat card (always loads) + Streak Stats -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/Vinay1451">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay1451&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" width="480" alt="GitHub Streak">
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Dynamic stats + top languages (from github-readme-stats — may occasionally rate-limit) -->
 <a href="https://github.com/Vinay1451">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinay1451&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" width="49%" alt="GitHub Stats">
 </a>
-<a href="https://github.com/Vinay1451">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay1451&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" width="49%" alt="GitHub Streak">
-</a>
-
-<br><br>
-
-<!-- Top Languages -->
 <a href="https://github.com/Vinay1451">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay1451&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" width="42%" alt="Top Languages">
 </a>
@@ -223,7 +240,7 @@ Associate Cloud Engineer<br>
 
 <br><br>
 
-<!-- 3D Isometric Calendar (static from previous run) -->
+<!-- 3D Isometric Calendar -->
 <img src="assets/metrics.isocalendar.svg" width="92%" alt="3D isometric contribution calendar">
 
 </div>
