@@ -10,7 +10,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Vinay1451">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer;AWS+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Building+reliable+cloud+systems+%E2%98%81%EF%B8%8F;Automating+everything+%F0%9F%94%A7;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;Google+Cloud+Certified+%E2%98%81%EF%B8%8F;Building+reliable+cloud+systems+%F0%9F%9A%80;Automating+everything+%F0%9F%94%A7" alt="typing banner">
 </a>
 
 <br>
@@ -25,13 +25,23 @@
 <img src="assets/divider.svg" width="100%" alt="">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                                  -->
+<!--                    PORTRAIT + ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="40%" align="center" valign="top">
+
+<!-- Dot-matrix portrait -->
+<img src="assets/portrait.svg" width="350" alt="Vinay Kumar — dot-matrix portrait">
+
+</td>
+<td width="60%" valign="top">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```console
-vinay@cloud:~$ cat about.txt
+vinay@cloud:~$ whoami
 ```
 
 Hi, I'm **Avulakunta Vinay Kumar** — a **Cloud & DevOps Engineer** passionate about building reliable, scalable, and automated cloud infrastructure.
@@ -40,9 +50,13 @@ Hi, I'm **Avulakunta Vinay Kumar** — a **Cloud & DevOps Engineer** passionate 
 
 🔹 **DevOps & Automation** — Automating workflows using CI/CD pipelines, Docker containers, Linux, and Bash scripting
 
-🔹 **Systems Engineering** — Deepening expertise in Linux administration, system fundamentals, and network architecture
+🔹 **Systems Engineering** — Linux administration, system fundamentals, and network architecture
 
-🔹 **Engineering Goal** — Building systems that are not only functional, but automated, observable, scalable, and reliable
+🔹 **Engineering Goal** — Building systems that are automated, observable, scalable, and reliable
+
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -54,19 +68,24 @@ Hi, I'm **Avulakunta Vinay Kumar** — a **Cloud & DevOps Engineer** passionate 
 
 ## 🏅 Certifications
 
-<a href="https://cloud.google.com/learn/certification/cloud-engineer">
-  <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE">
-</a>
-
-<br><br>
-
 <table>
 <tr>
-<td align="center" width="250">
+<td align="center" width="300">
 
-**Google Cloud**<br>
+<img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE">
+<br><br>
+<strong>Google Cloud</strong><br>
 Associate Cloud Engineer<br>
 <sub>☁️ Certified 2026</sub>
+
+</td>
+<td align="center" width="300">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<br><br>
+<strong>Amazon Web Services</strong><br>
+Cloud Practitioner<br>
+<sub>🎯 In Progress</sub>
 
 </td>
 </tr>
@@ -223,7 +242,7 @@ Associate Cloud Engineer<br>
 
 <br>
 
-<!-- Dynamic stats + top languages (from github-readme-stats — may occasionally rate-limit) -->
+<!-- Dynamic stats + top languages -->
 <a href="https://github.com/Vinay1451">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinay1451&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353&count_private=true" width="49%" alt="GitHub Stats">
 </a>
@@ -240,10 +259,38 @@ Associate Cloud Engineer<br>
 
 <br><br>
 
+<!-- GitHub Trophies -->
+<a href="https://github.com/Vinay1451">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinay1451&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies">
+</a>
+
+<br><br>
+
 <!-- 3D Isometric Calendar -->
 <img src="assets/metrics.isocalendar.svg" width="92%" alt="3D isometric contribution calendar">
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     CURRENTLY BUILDING                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚡ Currently
+
+</div>
+
+```yaml
+🔭 Working on:  Cloud infrastructure projects & DevOps automation
+🌱 Learning:    Kubernetes, Terraform, Advanced AWS Services
+🎯 Goal:        Contribute to open-source cloud-native projects
+💬 Ask me about: AWS, Linux, Docker, CI/CD, Cloud Architecture
+📫 Reach me:    vinaykumar1122t@gmail.com
+⚡ Fun fact:     I automate everything — even my GitHub profile!
+```
 
 <img src="assets/divider.svg" width="100%" alt="">
 
