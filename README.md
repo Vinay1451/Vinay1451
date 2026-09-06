@@ -8,9 +8,9 @@
 
 <br>
 
-<!-- ANIMATED TYPING -->
+<!-- ANIMATED TYPING (Clean & Professional) -->
 <a href="https://github.com/Vinay1451">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;GCP+%E2%80%A2+Azure+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;3x+Cloud+Certified+%F0%9F%8F%85;Building+reliable+cloud+systems+%F0%9F%9A%80;Automating+everything+%F0%9F%94%A7" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+Engineer;GCP+%E2%80%A2+Azure+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;3x+Cloud+Certified;Building+Reliable+Cloud+Systems;Automating+Infrastructure" alt="typing banner">
 </a>
 
 <br>
@@ -25,38 +25,27 @@
 <img src="assets/divider.svg" width="100%" alt="">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    PORTRAIT + ABOUT ME                             -->
+<!--                            ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td width="40%" align="center" valign="top">
+<div align="center">
 
-<!-- Dot-matrix portrait -->
-<img src="assets/portrait.svg" width="350" alt="Vinay Kumar — dot-matrix portrait">
-
-</td>
-<td width="60%" valign="top">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## About Me
 
 ```console
 vinay@cloud:~$ whoami
 ```
 
-Hi, I'm **Avulakunta Vinay Kumar** — a **Cloud & DevOps Engineer** passionate about building reliable, scalable, and automated cloud infrastructure.
+</div>
 
-🔹 **Cloud Infrastructure** — Building hands-on cloud environments with AWS (EC2, S3, IAM, VPC, Lambda, Serverless)
+I am **Avulakunta Vinay Kumar**, a **Cloud & DevOps Engineer** specializing in architecting resilient cloud infrastructure, multi-cloud deployments, and end-to-end CI/CD automation pipelines.
 
-🔹 **DevOps & Automation** — Automating workflows using CI/CD pipelines, Docker containers, Linux, and Bash scripting
+- **Cloud Infrastructure** — Designing and deploying scalable environments across Google Cloud Platform, Microsoft Azure, and AWS.
+- **DevOps & CI/CD** — Engineering automated CI/CD pipelines, containerization workflows with Docker, and GitOps practices.
+- **Systems Engineering** — Linux systems administration, performance tuning, shell scripting, and secure networking.
+- **Engineering Philosophy** — Building infrastructure that is automated by default, observable, resilient, and enterprise-grade.
 
-🔹 **Systems Engineering** — Linux administration, system fundamentals, and network architecture
-
-🔹 **Engineering Goal** — Building systems that are automated, observable, scalable, and reliable
-
-</td>
-</tr>
-</table>
+<br>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -66,7 +55,7 @@ Hi, I'm **Avulakunta Vinay Kumar** — a **Cloud & DevOps Engineer** passionate 
 
 <div align="center">
 
-## 🏅 Certifications
+## Certifications
 
 <table>
 <tr>
@@ -76,7 +65,7 @@ Hi, I'm **Avulakunta Vinay Kumar** — a **Cloud & DevOps Engineer** passionate 
 <br><br>
 <strong>Google Cloud</strong><br>
 Associate Cloud Engineer<br>
-<sub>☁️ Certified</sub>
+<sub>Certified</sub>
 
 </td>
 <td align="center" width="280">
@@ -85,7 +74,7 @@ Associate Cloud Engineer<br>
 <br><br>
 <strong>Microsoft Azure</strong><br>
 Administrator Associate<br>
-<sub>🛡️ Certified</sub>
+<sub>Certified</sub>
 
 </td>
 <td align="center" width="280">
@@ -94,7 +83,7 @@ Administrator Associate<br>
 <br><br>
 <strong>Anthropic Claude</strong><br>
 Certified Architect – Foundations<br>
-<sub>✨ Certified</sub>
+<sub>Certified</sub>
 
 </td>
 </tr>
@@ -105,18 +94,18 @@ Certified Architect – Foundations<br>
 <img src="assets/divider.svg" width="100%" alt="">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                                    -->
+<!--                      TECHNICAL SKILLS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🛠️ Tech Stack & Capabilities
+## Technical Skills & Stack
 
 <br>
 
 | Domain | Technologies & Tools |
 |---|---|
-| **Cloud & Infrastructure** | `AWS (EC2, S3, IAM, VPC, Lambda)` `GCP` `Azure` `Cloud Native` |
+| **Cloud & Infrastructure** | `Google Cloud Platform` `Microsoft Azure` `AWS (EC2, S3, IAM, VPC, Lambda)` `Cloud Native` |
 | **DevOps & CI/CD** | `Docker` `Git` `GitHub Actions` `Linux / Bash` `CI/CD Pipelines` |
 | **Scripting & Automation** | `Python` `Bash / Shell Scripting` `Automation Scripts` |
 | **Databases & Storage** | `PostgreSQL` `Supabase` `Firebase` `Cloud Storage` |
@@ -124,7 +113,7 @@ Certified Architect – Foundations<br>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,python,docker,git,github,bash,postgres,supabase,vscode,html,css&perline=14" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,python,docker,git,github,bash,postgres,supabase,vscode&perline=14" alt="technical skills">
 
 </div>
 
@@ -136,7 +125,7 @@ Certified Architect – Foundations<br>
 
 <div align="center">
 
-## 📊 Skill & Language Radars
+## Core Competencies & Language Distribution
 
 <table>
 <tr>
@@ -173,7 +162,7 @@ Certified Architect – Foundations<br>
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -225,7 +214,7 @@ Certified Architect – Foundations<br>
 
 <div align="center">
 
-## 📈 GitHub Stats & Activity
+## GitHub Activity & Analytics
 
 <!-- Self-hosted stat card -->
 <picture>
@@ -244,22 +233,22 @@ Certified Architect – Foundations<br>
 <img src="assets/divider.svg" width="100%" alt="">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     CURRENTLY BUILDING                             -->
+<!--                         CURRENT FOCUS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ⚡ Currently
+## Current Focus
 
 </div>
 
 ```yaml
-🔭 Working on:  Cloud infrastructure projects & DevOps automation
-🌱 Learning:    Kubernetes, Terraform, Advanced AWS Services
-🎯 Goal:        Contribute to open-source cloud-native projects
-💬 Ask me about: AWS, Linux, Docker, CI/CD, Cloud Architecture
-📫 Reach me:    vinaykumar1122t@gmail.com
-⚡ Fun fact:     I automate everything — even my GitHub profile!
+Focus:        Cloud infrastructure projects & DevOps automation
+Learning:     Kubernetes, Terraform, Multi-Cloud Architecture
+Goal:         Contributing to open-source cloud-native projects
+Expertise:    GCP, Azure, AWS, Linux, Docker, CI/CD
+Contact:      vinaykumar1122t@gmail.com
+Automation:   End-to-end automation of infrastructure and deployment workflows
 ```
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -270,7 +259,7 @@ Certified Architect – Foundations<br>
 
 <div align="center">
 
-## 🤝 Let's Connect
+## Contact & Connect
 
 <a href="https://linkedin.com/in/vinay-evolvecode/"><img src="https://img.shields.io/badge/LinkedIn-6K%2B_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:vinaykumar1122t@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
@@ -280,6 +269,6 @@ Certified Architect – Foundations<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=80&section=footer" width="100%" alt="">
 
-<sub>⚡ Built with precision · Automated with passion · Deployed with confidence</sub>
+<sub>Built with precision · Automated with passion · Deployed with confidence</sub>
 
 </div>

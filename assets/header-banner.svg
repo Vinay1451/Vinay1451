@@ -119,7 +119,7 @@
     <text x="100" y="224" fill="#8b949e">Open to opportunities</text>
 
     <circle cx="90" cy="242" r="3.5" fill="#39d353"/>
-    <text x="100" y="246" fill="#8b949e">Based in India 🇮🇳</text>
+    <text x="100" y="246" fill="#8b949e">Based in India</text>
   </g>
 
   <!-- Right side decoration: code snippet -->
