@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="assets/header-banner.svg" width="100%" alt="Avulakunta Vinay Kumar — Cloud & DevOps Engineer">
+<img src="assets/header-banner.svg" width="100%" alt="Vinay Kumar — Cloud & DevOps Engineer">
 
 <br>
 
@@ -39,7 +39,7 @@ vinay@cloud:~$ whoami
 
 </div>
 
-I am **Vinay Kumar** (Avulakunta Vinay Kumar), a **Cloud & DevOps Engineer** with hands-on experience building, containerizing, and deploying production applications using **AWS**, **Microsoft Azure**, **Docker**, **Linux**, **Python**, and **Git**, with foundational knowledge of **CI/CD** automation and **AI-assisted engineering**.
+I am **Vinay Kumar**, a **Cloud & DevOps Engineer** with hands-on experience building, containerizing, and deploying production applications using **AWS**, **Microsoft Azure**, **Docker**, **Linux**, **Python**, and **Git**, with foundational knowledge of **CI/CD** automation and **AI-assisted engineering**.
 
 - **Cloud Engineering** — Hands-on architecture design with AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, ECR, App Runner) and Microsoft Azure.
 - **DevOps & Containers** — Building automated CI/CD pipelines with GitHub Actions, containerizing workloads with Docker, and managing Linux infrastructure.

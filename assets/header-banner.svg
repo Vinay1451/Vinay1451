@@ -87,7 +87,7 @@
 
   <!-- Name -->
   <text x="80" y="80" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="32" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">
-    AVULAKUNTA VINAY KUMAR
+    VINAY KUMAR
     <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
   </text>
 
