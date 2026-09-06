@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39d353"/>
+      <stop offset="50%" stop-color="#2ea043"/>
+      <stop offset="100%" stop-color="#56d364"/>
+    </linearGradient>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="20%" cy="30%" r="35%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="80%" cy="70%" r="30%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)" rx="12"/>
+
+  <!-- Ambient glow orbs -->
+  <rect width="900" height="280" fill="url(#orb1)" rx="12"/>
+  <rect width="900" height="280" fill="url(#orb2)" rx="12"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.03" stroke="#39d353" stroke-width="0.5" fill="none">
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="0" y1="240" x2="900" y2="240"/>
+    <line x1="100" y1="0" x2="100" y2="280"/>
+    <line x1="200" y1="0" x2="200" y2="280"/>
+    <line x1="300" y1="0" x2="300" y2="280"/>
+    <line x1="400" y1="0" x2="400" y2="280"/>
+    <line x1="500" y1="0" x2="500" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="700" y1="0" x2="700" y2="280"/>
+    <line x1="800" y1="0" x2="800" y2="280"/>
+  </g>
+
+  <!-- Floating particles -->
+  <circle cx="120" cy="60" r="1.5" fill="#39d353" opacity="0.4">
+    <animate attributeName="cy" values="60;50;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="80" r="1" fill="#58a6ff" opacity="0.3">
+    <animate attributeName="cy" values="80;65;80" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="220" r="1.2" fill="#39d353" opacity="0.3">
+    <animate attributeName="cy" values="220;210;220" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="200" r="0.8" fill="#58a6ff" opacity="0.25">
+    <animate attributeName="cy" values="200;185;200" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="40" r="1" fill="#39d353" opacity="0.2">
+    <animate attributeName="cy" values="40;30;40" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="250" r="0.9" fill="#7ee787" opacity="0.3">
+    <animate attributeName="cy" values="250;238;250" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Terminal prompt accent -->
+  <rect x="60" y="55" width="3" height="28" rx="1.5" fill="#39d353" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Name -->
+  <text x="80" y="80" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="32" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">
+    AVULAKUNTA VINAY KUMAR
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- Title with gradient -->
+  <text x="80" y="115" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" font-weight="500" fill="url(#accent)">
+    Cloud &amp; DevOps Engineer
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="80" y="148" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">
+    Building reliable cloud systems · Automating everything · AWS · Linux · CI/CD
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+  </text>
+
+  <!-- Decorative accent line -->
+  <rect x="80" y="165" width="220" height="2" rx="1" fill="url(#accent)" opacity="0.6">
+    <animate attributeName="width" values="0;220" dur="1s" begin="0.7s" fill="freeze"/>
+  </rect>
+
+  <!-- Terminal-style status indicators -->
+  <g font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1s" fill="freeze"/>
+
+    <circle cx="90" cy="198" r="3.5" fill="#39d353"/>
+    <text x="100" y="202" fill="#8b949e">AWS Certified Cloud Engineer</text>
+
+    <circle cx="90" cy="220" r="3.5" fill="#39d353"/>
+    <text x="100" y="224" fill="#8b949e">Open to opportunities</text>
+
+    <circle cx="90" cy="242" r="3.5" fill="#39d353"/>
+    <text x="100" y="246" fill="#8b949e">Based in India 🇮🇳</text>
+  </g>
+
+  <!-- Right side decoration: code snippet -->
+  <g font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" opacity="0">
+    <animate attributeName="opacity" values="0;0.6" dur="1s" begin="1.2s" fill="freeze"/>
+    <text x="560" y="90" fill="#484f58">// what drives me</text>
+    <text x="560" y="110" fill="#8b949e">const <tspan fill="#79c0ff">passion</tspan> = {</text>
+    <text x="560" y="128" fill="#8b949e">  <tspan fill="#7ee787">cloud</tspan>: <tspan fill="#a5d6ff">"infrastructure"</tspan>,</text>
+    <text x="560" y="146" fill="#8b949e">  <tspan fill="#7ee787">devops</tspan>: <tspan fill="#a5d6ff">"automation"</tspan>,</text>
+    <text x="560" y="164" fill="#8b949e">  <tspan fill="#7ee787">goal</tspan>: <tspan fill="#a5d6ff">"reliability"</tspan>,</text>
+    <text x="560" y="182" fill="#8b949e">  <tspan fill="#7ee787">status</tspan>: <tspan fill="#a5d6ff">"always building"</tspan></text>
+    <text x="560" y="200" fill="#8b949e">};</text>
+  </g>
+
+  <!-- Border glow at bottom -->
+  <rect x="0" y="276" width="900" height="4" rx="0" fill="url(#accent)" opacity="0.3"/>
+</svg>
