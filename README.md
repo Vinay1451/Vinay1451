@@ -215,30 +215,6 @@ Career Launchpad – APAC 2025<br>
 <img src="assets/divider.svg" width="100%" alt="">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS & ACTIVITY                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## GitHub Activity & Overview
-
-<!-- Self-hosted stat card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
-
-<br><br>
-
-<!-- 3D Isometric Calendar -->
-<img src="assets/metrics.isocalendar.svg" width="92%" alt="3D isometric contribution calendar">
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                         CURRENT FOCUS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
